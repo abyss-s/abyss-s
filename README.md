@@ -56,5 +56,5 @@ Here are some ideas to get you started:
 
 ## Baekjoon
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=abyss-s)](https://solved.ac/abyss-s)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=abyss)](https://solved.ac/abyss)
 
