@@ -5,11 +5,6 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=black) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=black) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=black) 
 
 
-
-## Contact...
-[Tistory](https://tomymoon.tistory.com/)
-
-
 ## Wakatime...
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2041%20mins-blue)
@@ -55,7 +50,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abyss-s)](https://github.com/abyss-s/github-readme-stats)
 
 
-## Baekjoon
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=abyss)](https://solved.ac/abyss)
 
