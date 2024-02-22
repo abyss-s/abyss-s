@@ -13,8 +13,7 @@
 
 
 ## Most Used Langauages...
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abyss-s)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abyss-s&layout=compact&theme=dracula)
 
 
 ## Solved.ac...
