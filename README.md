@@ -13,8 +13,8 @@
 
 ## Wakatime...
  <!--START_SECTION:waka-->
-[![wakatime](https://wakatime.com/badge/user/e8136b2d-915e-4640-a259-f1b1116f7e3d.svg)](https://wakatime.com/@e8136b2d-915e-4640-a259-f1b1116f7e3d)
 <!--END_SECTION:waka-->
+[![wakatime](https://wakatime.com/badge/user/e8136b2d-915e-4640-a259-f1b1116f7e3d.svg)](https://wakatime.com/@e8136b2d-915e-4640-a259-f1b1116f7e3d)
 
 
 ## Most Used Langauages...
