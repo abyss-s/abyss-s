@@ -16,10 +16,14 @@
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e8136b2d-915e-4640-a259-f1b1116f7e3d.svg)](https://wakatime.com/@e8136b2d-915e-4640-a259-f1b1116f7e3d)
 
+## Github Stats...
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abyss-s&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abyss-s&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abyss-s&theme=tokyonight)
 
-## Most Used Langauages...
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abyss-s&layout=compact&theme=dracula)
 
 <!--
-참고: https://hulrud.tistory.com/3#article-3--readme-widgets
+참고:
+https://hulrud.tistory.com/3#article-3--readme-widgets
+https://dkssud8150.github.io/posts/gitpage/
 -->
