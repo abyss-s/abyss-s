@@ -1,15 +1,13 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Han+Sans&size=80&pause=999&color=3B85F7&center=true&vCenter=true&repeat=false&random=false&width=600&height=150&lines=Hello+World!)](https://git.io/typing-svg)
+## 💖Hello. I’m abyss-s!
+이것저것 공부하는 중입니다. 잘 부탁드립니다😃
 
 ## Learning...
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
 ## Wakatime...
  <!--START_SECTION:waka-->
