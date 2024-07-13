@@ -11,15 +11,11 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)  
 
-## ⌚ Wakatime...
- <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-[![wakatime](https://wakatime.com/badge/user/e8136b2d-915e-4640-a259-f1b1116f7e3d.svg)](https://wakatime.com/@e8136b2d-915e-4640-a259-f1b1116f7e3d)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 
 ## 📊 Github Stats...
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abyss-s&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abyss-s&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abyss-s&theme=tokyonight)
 
 
 <!--
