@@ -16,7 +16,8 @@
 
 
 ## 📊 Github Stats...
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abyss-s&theme=tokyonight)
+[![wakatime](https://wakatime.com/badge/user/e8136b2d-915e-4640-a259-f1b1116f7e3d.svg)](https://wakatime.com/@e8136b2d-915e-4640-a259-f1b1116f7e3d)  
+![카드](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abyss-s&theme=tokyonight)
 
 
 <!--
