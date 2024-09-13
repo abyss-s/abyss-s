@@ -24,6 +24,8 @@ I'm studying front-end development😊
 [![wakatime](https://wakatime.com/badge/user/e8136b2d-915e-4640-a259-f1b1116f7e3d.svg)](https://wakatime.com/@e8136b2d-915e-4640-a259-f1b1116f7e3d)  
 ![카드](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abyss-s&theme=tokyonight)
 
+## 💎 PS Studying...
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=abyss)](https://solved.ac/abyss)
 
 <!--
 참고:
@@ -31,3 +33,11 @@ https://hulrud.tistory.com/3#article-3--readme-widgets
 https://dkssud8150.github.io/posts/gitpage/
 https://github.com/Envoy-VC/awesome-badges
 -->
+
+## 🔎 Projects
+|Repo|내용|
+|------|---|
+|[SAFE-T](https://github.com/likelion-inha-hackathon-2/Summerthon-FE)|빠르고 간편한 취약계층 특화 택시 호출 서비스, SAFE-T🚕|
+|[강쥐시그널](https://github.com/likelion-inha-hackathon-2/Meong-Signal-FE)|더 건강하개, 더 재미있개! 당신을 위한 귀여운 산책메이트, 강쥐시그널🐶|
+|[쉽게, 티켓](https://github.com/Easy-Ti-cket/easy-ticket)|누구나 쉽게 배우는 티켓팅 플랫폼, 쉽게🎫티켓!|
+
