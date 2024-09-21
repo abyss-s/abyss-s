@@ -25,7 +25,7 @@
 ## 📊 Github Stats
 
 [![wakatime](https://wakatime.com/badge/user/e8136b2d-915e-4640-a259-f1b1116f7e3d.svg)](https://wakatime.com/@e8136b2d-915e-4640-a259-f1b1116f7e3d)  
-![카드](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abyss-s&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abyss-s&count_private=true)
 
 ## 💎 PS Studying
 
