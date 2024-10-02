@@ -1,26 +1,27 @@
 # 💖 Hello. I’m abyss-s
 
-프론트엔드 개발 공부합니다😶‍🌫️🫧  
+프론트엔드 개발 공부합니다🤭  
 [🔗블로그 바로가기!](https://tomymoon.tistory.com/)
 
 ## 🔧 Skills
 
-### Frontend
-
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) 
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) 
-
-
-### Cowork
-
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![CSS Modules](https://img.shields.io/badge/CSS_Modules-000000?style=for-the-badge&logo=css3&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-FF6F20?style=for-the-badge&logo=prettier&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
 
 ## 📊 Github Stats
 
@@ -35,17 +36,19 @@
 참고:
 https://hulrud.tistory.com/3#article-3--readme-widgets
 https://github.com/Envoy-VC/awesome-badges
+
+
 -->
 
 ## 🔎 Projects
 
-| Repo                                                                       | 내용                                                                  |
-| -------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| [SAFE-T](https://github.com/likelion-inha-hackathon-2/Summerthon-FE)       | 빠르고 간편한 취약계층 특화 택시 호출 서비스, SAFE-T🚕                |
-| [강쥐시그널](https://github.com/likelion-inha-hackathon-2/Meong-Signal-FE) | 더 건강하개, 더 재미있개! 당신을 위한 귀여운 산책메이트, 강쥐시그널🐶 |
-| [쉽게, 티켓](https://github.com/Easy-Ti-cket/easy-ticket)                  | 누구나 쉽게 배우는 티켓팅 플랫폼, 쉽게🎫티켓!                         |
+| Repo                                                                         | 내용                                                           |
+| ---------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| [쉽게, 티켓🎫](https://github.com/Easy-Ti-cket/easy-ticket)                  | 누구나 쉽게 배울 수 있는 티켓팅 교육용 플랫폼              |
+| [강쥐시그널🐶](https://github.com/likelion-inha-hackathon-2/Meong-Signal-FE) | 견주와 도그워커 간의 매칭을 통한 반려견 산책 매칭 서비스 |
+| [SAFE-T🚕](https://github.com/likelion-inha-hackathon-2/Summerthon-FE)       | 디지털 취약계층을 위한 빠르고 간편한 택시 호출 서비스          |
 
-## 🫧 Contact
+## 💌 Contact
 
 - e-mail : _xyz@inha.edu_
 - x: <https://twitter.com/_abyss_s>
