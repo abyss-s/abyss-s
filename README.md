@@ -1,7 +1,13 @@
 # 💖 Hello. I’m abyss-s
-
-프론트엔드 개발 공부합니다🤭  
-[🔗기술 블로그 바로가기!](https://tomymoon.tistory.com/)
+> #### 프론트엔드 개발 공부합니다🤭 
+> **[🔗기술 블로그 바로가기!](https://tomymoon.tistory.com/)**
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/abyss-s"
+  width="600"
+  height="300"
+/>
+</a>
 
 ## 🔧 Skills
 
