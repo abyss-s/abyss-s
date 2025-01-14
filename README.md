@@ -21,14 +21,14 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 🎈 Activities
-| Activity                                                         | Duration              |
+| Activity                                                           | Duration              |
 | ------------------------------------------------------------------ | --------------------- |
-| Inha University, IGRUS. Member and Management team                                    | 2020.03 - 2022.12     |
-| Inha University, LIKE-LION 12th. Frontend Track                   | 2024.03 - 2024.12     |
-| Inha University, National Center of Excellence in SW, Venture Startup Academy 2nd.                   | 2024.03 - 2024.12     |
-| 2024 Open Source Contribution Academy 2nd.                     | 2024.09 - 2024.10     |
-| Inha University, I-STARTUP-LAB Accelerating Program 12th.                      | 2024.09 - 2024.12     |
-| LG U+ URECA 2nd. Frontend Track                                       | 2025.01 - 2025.08     |
+| Inha University, IGRUS. Member and Management team                 | 2020.03 - 2022.12     |
+| Inha University, LIKELION 12th. Frontend Track                     | 2024.03 - 2024.12     |
+| Inha University, National Center of Excellence in SW, Venture Startup Academy 2nd.         | 2024.03 - 2024.12     |
+| 2024 Open Source Contribution Academy 2nd.                         | 2024.09 - 2024.10     |
+| I-STARTUP LAB Accelerating Program 12th.                           | 2024.09 - 2024.12     |
+| LG U+ URECA 2nd. Frontend Track                                    | 2025.01 - 2025.08     |
 
 ## 💎 PS
 [![코드트리|실력진단-lh3729](https://banner.codetree.ai/v1/banner/lh3729)](https://www.codetree.ai/profiles/lh3729)
