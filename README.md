@@ -27,8 +27,11 @@
 | Inha University, LIKELION 12th. Frontend Track                     | 2024.03 - 2024.12     |
 | Inha University, National Center of Excellence in SW, Venture Startup Academy 2nd.         | 2024.03 - 2024.12     |
 | 2024 Open Source Contribution Academy 2nd.                         | 2024.09 - 2024.10     |
-| I-STARTUP LAB Accelerating Program 12th.                           | 2024.09 - 2024.12     |
+| I-START-UP-LAB Accelerating Program 12th.                          | 2024.09 - 2024.12     |
 | LG U+ URECA 2nd. Frontend Track                                    | 2025.01 - 2025.08     |
+
+## 🌐 Contributions
+https://github.com/continuedev/continue/pull/2508
 
 ## 💎 PS
 [![코드트리|실력진단-lh3729](https://banner.codetree.ai/v1/banner/lh3729)](https://www.codetree.ai/profiles/lh3729)
@@ -36,11 +39,11 @@
 ## 🔎 Projects
 | Repository                                                             | Description                                               | Duration              |
 | ---------------------------------------------------------------------- | --------------------------------------------------------- | --------------------- |
-| [Open-Lawyer👨🏻‍⚖️](https://github.com/InhaCapstone2024/Open-Lawyer)     | AI 기반 재판 판결 승소 확률 예측 챗봇 서비스   | 2024.09 - 2024.12     |
-| [Branchify🕊️](https://github.com/abyss-s/Branchify_FE)       | 협업툴 올인원 관리 서비스를 위한 랜딩페이지 | 2024.10 - 2024.12     |
+| [Open-Lawyer👨🏻‍⚖️](https://github.com/InhaCapstone2024/Open-Lawyer)       | AI 기반 재판 판결 승소 확률 예측 챗봇 서비스   | 2024.09 - 2024.12     |
+| [Branchify🕊️](https://github.com/abyss-s/Branchify_FE)                | 협업툴 관리 서비스를 위한 랜딩페이지 | 2024.10 - 2024.12     |
 | [쉽게, 티켓🎫](https://github.com/Easy-Ti-cket/easy-ticket)              | 누구나 쉽게 배울 수 있는 티켓팅 교육용 웹사이트            | 2024.07 - 2024.09     |
 | [강쥐시그널🐶](https://github.com/likelion-inha-hackathon-2/Meong-Signal-FE) | 견주와 도그워커 간의 매칭을 통한 반려견 산책 매칭 플랫폼   | 2024.07 - 2024.08     |
-| [SAFE-T🚕](https://github.com/likelion-inha-hackathon-2/Summerthon-FE)   | 디지털 취약계층을 위한 빠르고 간편한 택시 호출 서비스| 2024.06 - 2024.07     |
+| [SAFE-T🚕](https://github.com/likelion-inha-hackathon-2/Summerthon-FE)   | 디지털 취약계층을 위한 빠르고 간편한 택시 호출 서비스 | 2024.06 - 2024.07     |
 
 ## 💌 Contact
 
