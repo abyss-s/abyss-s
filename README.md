@@ -43,7 +43,7 @@ https://github.com/continuedev/continue/pull/2508
 | [Branchify🕊️](https://github.com/abyss-s/Branchify_FE)                | 협업툴 관리 서비스를 위한 랜딩페이지 | 2024.10 - 2024.12     |
 | [쉽게, 티켓🎫](https://github.com/Easy-Ti-cket/easy-ticket)              | 누구나 쉽게 배울 수 있는 티켓팅 교육용 웹사이트            | 2024.07 - 2024.09     |
 | [강쥐시그널🐶](https://github.com/likelion-inha-hackathon-2/Meong-Signal-FE) | 견주와 도그워커 간의 매칭을 통한 반려견 산책 매칭 플랫폼   | 2024.07 - 2024.08     |
-| [SAFE-T🚕](https://github.com/likelion-inha-hackathon-2/Summerthon-FE)   | 디지털 취약계층을 위한 빠르고 간편한 택시 호출 서비스 | 2024.06 - 2024.07     |
+| [SAFE-T🚕](https://github.com/abyss-s/Summerthon-FE)   | 디지털 취약계층을 위한 빠르고 간편한 택시 호출 서비스 | 2024.06 - 2024.07     |
 
 ## 💌 Contact
 
