@@ -1,5 +1,5 @@
 # Hello. I’m abyss-s👋🏻
-#### I'm Youngju Lee, a growth-oriented front-end developer.
+### I'm Youngju Lee, a growth-oriented front-end developer.
 - I'm interested in designing a user-friendly UI/UX.
 - I try to respect and reflect the opinions of all team members when collaborating.
 - I'm always ready to embrace new web trends and technologies.
@@ -25,7 +25,6 @@
 | ------------------------------------------------------------------ | --------------------- |
 | Inha University, IGRUS. Member and Management team                 | 2020.03 - 2022.12     |
 | Inha University, LIKELION 12th. Frontend Track                     | 2024.03 - 2024.12     |
-| Inha University, National Center of Excellence in SW, Venture Startup Academy 2nd.         | 2024.03 - 2024.12     |
 | 2024 Open Source Contribution Academy 2nd.                         | 2024.09 - 2024.10     |
 | I-START-UP-LAB Accelerating Program 12th.                          | 2024.09 - 2024.12     |
 | LG U+ URECA 2nd. Frontend Track                                    | 2025.01 - 2025.08     |
@@ -48,7 +47,5 @@ https://github.com/continuedev/continue/pull/2508
 ## 💌 Contact
 
 > e-mail : _xyz@inha.edu_  
-> x: <https://twitter.com/_abyss_s>
-
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabyss-s&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
