@@ -14,7 +14,6 @@
 ### Development Tools  
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -40,7 +39,7 @@
 [continuedev/continue/pull/2508](https://github.com/continuedev/continue/pull/2508)
 
 ## 💎 PS  
-[![코드트리|실력진단-lh3729](https://banner.codetree.ai/v1/banner/lh3729)](https://www.codetree.ai/profiles/lh3729)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=abyss)](https://solved.ac/abyss/)
 
 ## 🔎 Projects  
 | Repository                                                             | Description                                               | Duration              |
