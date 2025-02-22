@@ -50,6 +50,7 @@
 | [강쥐시그널🐶](https://github.com/likelion-inha-hackathon-2/Meong-Signal-FE) | 견주와 도그워커 간의 매칭을 통한 반려견 산책 매칭 플랫폼   | 2024.07 - 2024.08     |
 | [SAFE-T🚕](https://github.com/abyss-s/Summerthon-FE)   | 디지털 취약계층을 위한 빠르고 간편한 택시 호출 서비스 | 2024.06 - 2024.07     |
 
+[![wakatime](https://wakatime.com/badge/user/e8136b2d-915e-4640-a259-f1b1116f7e3d.svg)](https://wakatime.com/@e8136b2d-915e-4640-a259-f1b1116f7e3d)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabyss-s&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 
 </div>
