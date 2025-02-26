@@ -1,11 +1,14 @@
 # Hello. I’m abyss-s👋🏻  
 ### I'm Youngju Lee, a growth-oriented front-end developer.
 
+> [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youngju-lee-413b63346)
+
 - I'm interested in designing a user-friendly UI/UX.  
 - I try to respect and reflect the opinions of all team members when collaborating.  
 - I'm always ready to embrace new web trends and technologies.  
 
-> **[↗️ Visit my log in Tistory](https://tomymoon.tistory.com/)**  
+**[↗️ Visit my log in Tistory](https://tomymoon.tistory.com/)**
+
 
 <div align="center">
 
