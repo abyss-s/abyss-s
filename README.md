@@ -1,14 +1,9 @@
 # Hello. I’m abyss-s👋🏻  
 ### I'm Youngju Lee, a growth-oriented front-end developer.
 
-> [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youngju-lee-413b63346)
-
 - I'm interested in designing a user-friendly UI/UX.  
 - I try to respect and reflect the opinions of all team members when collaborating.  
 - I'm always ready to embrace new web trends and technologies.  
-
-**[↗️ Visit my log in Tistory](https://tomymoon.tistory.com/)**
-
 
 <div align="center">
 
@@ -29,20 +24,8 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 
-## 🎈 Activities  
-| Activity                                                           | Duration              |
-| ------------------------------------------------------------------ | --------------------- |
-| Inha University, IGRUS. Member and Management team                 | 2020.03 - 2022.12     |
-| Inha University, LIKELION 12th. Frontend Track                     | 2024.03 - 2024.12     |
-| 2024 Open Source Contribution Academy 2nd.                         | 2024.09 - 2024.10     |
-| I-START-UP-LAB Accelerating Program 12th.                          | 2024.09 - 2024.12     |
-| LG U+ URECA 2nd. Frontend Track                                    | 2025.01 - 2025.08     |
-
 ## 🌐 Contributions  
 [continuedev/continue/pull/2508](https://github.com/continuedev/continue/pull/2508)
-
-## 💎 PS  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=abyss)](https://solved.ac/abyss/)
 
 ## 🔎 Projects  
 | Repository                                                             | Description                                               | Duration              |
@@ -55,5 +38,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/e8136b2d-915e-4640-a259-f1b1116f7e3d.svg)](https://wakatime.com/@e8136b2d-915e-4640-a259-f1b1116f7e3d)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabyss-s&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youngju-lee-413b63346)
 
 </div>
