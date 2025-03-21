@@ -1,21 +1,30 @@
 # Hello. I’m abyss-s👋🏻  
-### I'm Youngju Lee, a growth-oriented front-end developer.
+### I'm Youngju Lee, who prioritizes user experience above all.
 
-- I'm interested in designing a user-friendly UI/UX.  
-- I try to respect and reflect the opinions of all team members when collaborating.  
-- I'm always ready to embrace new web trends and technologies.  
+- I am a developer who values **user convenience**. In [Easy Ticket](https://easy-ticket-e7da7.web.app/) project, I improved **performance by reducing the page load time by 31.6%** and **decreasing the FCP to 0.8s**.
+- I meticulously identify and **resolve the root causes of problems**. I have contributed by directly solving the issue where React props were not recognized in the DOM in the open-source GUI used in the project, [Continue](https://github.com/continuedev/continue).
+- Currently, I am participating in the front-end development of [Grimity](https://www.grimity.com/) with more 500 users.
 
 <div align="center">
 
 ## 🔧 Skills  
 
-### Development Tools  
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+### Development Tools   
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Recoil](https://img.shields.io/badge/Recoil-0075FF?style=for-the-badge&logo=recoil&logoColor=white)
+![Jotai](https://img.shields.io/badge/Jotai-FF4B00?style=for-the-badge&logo=jotai&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)  
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Collaboration Tools
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -30,8 +39,8 @@
 ## 🔎 Projects  
 | Repository                                                             | Description                                               | Duration              |
 | ---------------------------------------------------------------------- | --------------------------------------------------------- | --------------------- |
-| [Grimity🎨](https://github.com/Grimity/FE-Grimity)       | 그림러들을 위한 커뮤니티, 그리미티   | 2025.03 - ing     |
-| [너로 정했다!👊 ](https://github.com/orgs/Ureca-Mini-Project-Team4/repositories)    |  유레카 프론트엔드 대면반 2기를 위한 익명 밸런스게임 커뮤니티 | 2025.03 - 2025.04     |
+| [Grimity🎨](https://github.com/Grimity/FE-Grimity)       | 그림러들을 위한 커뮤니티  | 2025.03 - ing     |
+| [너로 정했다!👊 ](https://github.com/Ureca-Mini-Project-Team4/Oh-no-its-me)    |  유레카 프론트엔드 대면반 2기를 위한 익명 밸런스게임 커뮤니티 | 2025.03 - 2025.05     |
 | [Open-Lawyer👨🏻‍⚖️](https://github.com/InhaCapstone2024/Open-Lawyer)       | AI 기반 재판 판결 승소 확률 예측 챗봇 서비스   | 2024.09 - 2024.12     |
 | [Branchify🕊️](https://github.com/abyss-s/Branchify_FE)                | 협업툴 관리 서비스를 위한 랜딩페이지 | 2024.10 - 2024.12     |
 | [쉽게, 티켓🎫](https://github.com/Easy-Ti-cket/easy-ticket)              | 누구나 쉽게 배울 수 있는 티켓팅 교육용 웹사이트            | 2024.07 - 2024.09     |
