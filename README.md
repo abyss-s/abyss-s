@@ -3,7 +3,7 @@
 
 - I am a developer values **UX**. In [Easy-Ticket](https://easy-ticket-e7da7.web.app/), I improved **performance by reducing the page load time by 31.6%** and **decreasing the FCP to 0.8s**.
 - I meticulously identify and **resolve the root causes of problems**. I have contributed by directly solving the issue React props were not recognized in the DOM in the open-source GUI used in, [Continue](https://github.com/continuedev/continue).
-- Now, I am participating in the frontend engineer of [Grimity](https://www.grimity.com/) with more 1.6K UU in 90 days.
+- I'm currently participating in the 2nd. of the URECA Frontend Developer SW Training Program, operated by LGUplus.
 
 <div align="center">
 
