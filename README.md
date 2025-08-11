@@ -5,15 +5,11 @@
 * In **[Easy-Ticket](https://easy-ticket-e7da7.web.app)**, improved **page load time by 31.6%** and reduced **FCP to 0.8s**.  
 * In **[Continue](https://github.com/continuedev/continue)**, fixed a core bug where React props were not recognized in the DOM.  
   * PR: [continuedev/continue#2508](https://github.com/continuedev/continue/pull/2508)  
-
 * Completed the **URECA Frontend Developer SW Training Program** (LG Uplus) — selected as **team leader** in all projects, leading teams to award-winning and high-impact results:  
   * **[MoonoZ](https://github.com/Ureca-Middle-Project-Team4/4EVER0-FE)** — **Best Project Award**. Built a **LangChain-based AI chatbot** with streaming, developed plan/subscription recommendation APIs, and integrated **Naver Maps API**.  
   * **[UFO-Fi](https://github.com/Ureca-Final-Project-Team1/UFO-Fi-FE)** — Designed **FSD architecture**, implemented **FSM-based payment retry**, FCM notifications, infinite scroll, and admin back office. Improved **session duration by ~26%**, doubled unique users, and reached **440 visitors** (Vercel Analytics).  
 
 <div align="center">
-
-</div>
-
 
 ## 🔧 Skills  
 
