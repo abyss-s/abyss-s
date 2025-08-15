@@ -25,15 +25,15 @@
 
 | Repository | Description | Duration |
 | --- | --- | --- |
-| [UFO-Fi🛸](https://github.com/Ureca-Final-Project-Team1/UFO-Fi-FE) | 수탁 구조 기반 유휴 모바일 데이터 C2C 거래 플랫폼 | 2025.06.30 - 2025.08.07 |
-| [MoonoZ🐙](https://github.com/Ureca-Middle-Project-Team4/4EVER0-FE) | MZ세대를 위한 스마트한 LG U+ 혜택 큐레이션 서비스 | 2025.06.04 - 2025.06.26 |
-| [Grimity🎨](https://github.com/Grimity/FE-Grimity) | 그림러들을 위한 커뮤니티 | 2024.03 - 2025.05 |
-| [너로 정했다!👊](https://github.com/Ureca-Mini-Project-Team4/Oh-no-its-me) | 익명 투표 기반 밸런스 게임 & 커뮤니티 플랫폼 | 2024.03 - 2025.05 |
-| [Open-Lawyer👨🏻‍⚖️](https://github.com/InhaCapstone2024/Open-Lawyer) | AI 기반 재판 판결 승소 확률 예측 챗봇 서비스 | 2024.09 - 2024.12 |
-| [Branchify🕊️](https://github.com/abyss-s/Branchify_FE) | 협업툴 올인원 관리 서비스를 위한 랜딩페이지 | 2024.10 - 2024.12 |
-| [쉽게, 티켓🎫](https://github.com/Easy-Ti-cket/easy-ticket) | 누구나 쉽게 배울 수 있는 티켓팅 교육용 웹사이트 | 2024.07 - 2024.09 |
-| [강쥐시그널🐶](https://github.com/likelion-inha-hackathon-2/Meong-Signal-FE) | 견주와 도그워커 간의 매칭을 통한 반려견 산책 매칭 플랫폼 | 2024.07 - 2024.08 |
-| [SAFE-T🚕](https://github.com/likelion-inha-hackathon-2/Summerthon-FE) | 디지털 취약계층을 위한 빠르고 간편한 택시 호출 서비스 | 2024.06 - 2024.07 |
+| [UFO-Fi🛸](https://github.com/Ureca-Final-Project-Team1/UFO-Fi-FE) | 수탁 구조 기반 유휴 모바일 데이터 C2C 거래 플랫폼 | 2025.06 - 2025.08 (5주) |
+| [MoonoZ🐙](https://github.com/Ureca-Middle-Project-Team4/4EVER0-FE) | MZ세대를 위한 스마트한 LG U+ 혜택 큐레이션 서비스 | 2025.06 (3주) |
+| [Grimity🎨](https://github.com/Grimity/FE-Grimity) | 그림러들을 위한 커뮤니티 | 2025.03 - 2025.05 (3개월) |
+| [너로 정했다!👊](https://github.com/Ureca-Mini-Project-Team4/Oh-no-its-me) | 익명 투표 기반 밸런스 게임 & 커뮤니티 플랫폼 | 2024.03 - 2025.05 (3주) |
+| [Open-Lawyer👨🏻‍⚖️](https://github.com/InhaCapstone2024/Open-Lawyer) | AI 기반 재판 판결 승소 확률 예측 챗봇 서비스 | 2024.09 - 2024.12 (4개월) |
+| [Branchify🕊️](https://github.com/abyss-s/Branchify_FE) | 협업툴 올인원 관리 서비스를 위한 랜딩페이지 | 2024.10 - 2024.12 (3개월) |
+| [쉽게, 티켓🎫](https://github.com/Easy-Ti-cket/easy-ticket) | 누구나 쉽게 배울 수 있는 티켓팅 교육용 웹사이트 | 2024.07 - 2024.09 (3개월) |
+| [강쥐시그널🐶](https://github.com/likelion-inha-hackathon-2/Meong-Signal-FE) | 견주와 도그워커 간의 매칭을 통한 반려견 산책 매칭 플랫폼 | 2024.07 - 2024.08 (2주) |
+| [SAFE-T🚕](https://github.com/likelion-inha-hackathon-2/Summerthon-FE) | 디지털 취약계층을 위한 빠르고 간편한 택시 호출 서비스 | 2024.06 - 2024.07 (1주) |
 
 </div>
 
