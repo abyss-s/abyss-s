@@ -1,25 +1,22 @@
-# Hello. I’m abyss-s👋🏻  
 
-### I'm Youngju Lee — a frontend developer who puts **user experience first**.  
+# Hello. I'm abyss-s 👋🏻
 
-* In **[Easy-Ticket](https://easy-ticket-e7da7.web.app)**, improved **page load time by 31.6%** and reduced **FCP to 0.8s**.  
-* In **[Continue](https://github.com/continuedev/continue)**, fixed a core bug where React props were not recognized in the DOM.  
-  * PR: [continuedev/continue#2508](https://github.com/continuedev/continue/pull/2508)  
-* Completed the **URECA Frontend Developer SW Training Program** (LG Uplus) — selected as **team leader** in all projects, leading teams to award-winning and high-impact results:  
-  * **[MoonoZ](https://github.com/Ureca-Middle-Project-Team4/4EVER0-FE)** — **Best Project Award**. Built a **LangChain-based AI chatbot** with streaming, developed plan/subscription recommendation APIs, and integrated **Naver Maps API**.  
-  * **[UFO-Fi](https://github.com/Ureca-Final-Project-Team1/UFO-Fi-FE)** — Designed **FSD architecture**, implemented **FSM-based payment retry**, FCM notifications, infinite scroll, and admin back office. Improved **session duration by ~26%**, doubled unique users, and reached **440 visitors** (Vercel Analytics).  
+### **사용자 경험을 최우선으로 생각하는 프론트엔드 개발자, 이영주**입니다.
 
 <div align="center">
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=abyss-s&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/abyss-s"
+  width="600"
+  height="300"
+/>
+</a>
+
 ## 🔧 Skills  
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge\&logo=reactquery\&logoColor=white)![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge\&logo=axios\&logoColor=white) 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white) ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge\&logo=reactquery\&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge\&logo=zustand\&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge\&logo=zustand\&logoColor=white)![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)![Recoil](https://img.shields.io/badge/Recoil-0075FF?style=for-the-badge\&logo=recoil\&logoColor=white)![Jotai](https://img.shields.io/badge/Jotai-FF4B00?style=for-the-badge\&logo=jotai\&logoColor=white)
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwindcss\&logoColor=white)![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge\&logo=styled-components\&logoColor=white)![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge\&logo=sass\&logoColor=white)
-
-<div align="left">
 
 
 ## 🌐 Activities  
