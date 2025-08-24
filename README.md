@@ -3,8 +3,6 @@
 
 ### **사용자 경험을 최우선으로 생각하는 프론트엔드 개발자, 이영주**입니다.
 
-<div align="center">
-
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=abyss-s&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/abyss-s"
