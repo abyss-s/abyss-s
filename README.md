@@ -24,8 +24,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/e8136b2d-915e-4640-a259-f1b1116f7e3d.svg)](https://wakatime.com/@e8136b2d-915e-4640-a259-f1b1116f7e3d)
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youngju-lee-413b63346)
-
 [![rankit-badge](https://badge.rankit.run/badge?name=abyss-s)](https://www.rankit.run)
 
 </div>
